@@ -1,5 +1,3 @@
-![](images.jpg)
-
 ## IpeaDATA-Lab👋
 
 Bem-vindo(a) ao IpeaDATA-Lab, repositório oficial da Coordenação de Ciências de Dados e Modelagem (COCDM), do Instituto de Pesquisa Econômica Aplicada (Ipea).
