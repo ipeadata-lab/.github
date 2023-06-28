@@ -1,11 +1,9 @@
-## IpeaDATA-Lab👋
+## Bem-vindo(a) ao IpeaDATA-Lab👋
 
-Bem-vindo(a) ao IpeaDATA-Lab, repositório oficial da Coordenação de Ciências de Dados e Modelagem (COCDM), do Instituto de Pesquisa Econômica Aplicada (Ipea).
+Este é o repositório oficial da área de Ciências de Dados do Instituto de Pesquisa Econômica Aplicada (Ipea).
 
-### Sobre a COCDM
-A Coordenação de Ciências de Dados e Modelagem (COCDM) é responsável por investigar e disseminar o conhecimento técnico necessário para a adoção de metodologias de ciência de dados, inteligência artificial, tecnologia da informação, computação e comunicação. Nosso principal objetivo é capacitar os pesquisadores e técnicos do Ipea, fornecendo as ferramentas e habilidades necessárias para utilizar metodologias avançadas em seus trabalhos.
-
-Além disso, a COCDM tem como compromisso promover o debate acerca do conhecimento de modelagem estatística e econométrica. Através desse debate, buscamos estimular a pesquisa científica baseada em evidências e impulsionar a inovação em pesquisa dentro do Ipea.
+### Sobre o IpeaData-Lab
+O IpeaDATA-Lab tem como objetivo investigar e disseminar conhecimento nas áreas de ciência de dados, inteligência artificial, tecnologia da informação, computação e comunicação. Nossa missão é fornecer aos técnicos do Ipea, das diversas diretorias e áreas de estudo, as ferramentas necessárias para a adoção de metodologias avançadas em suas pesquisas.
 
 ### Repositório
-Neste repositório, você encontrará diversos recursos desenvolvidos pela COCDM para auxiliar os pesquisadores e técnicos do Ipea. Esses recursos podem incluir códigos, notebooks, documentação, tutoriais e outros materiais relevantes para a aplicação de técnicas de ciência de dados, modelagem estatística e econométrica.
+Aqui, você encontrará uma variedade de recursos desenvolvidos para auxiliar os pesquisadores do Ipea. Esses recursos podem incluir códigos, notebooks, documentação, tutoriais e outros materiais relevantes para a aplicação de técnicas de ciência de dados, modelagem estatística e econométrica.
