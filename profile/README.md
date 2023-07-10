@@ -1,3 +1,5 @@
+![logo ipeadata-lab](ipeaDATAlab-logo.jpg)
+
 ## Bem-vindo(a) ao IpeaDATA-Lab👋
 
 Este é o repositório oficial da área de Ciências de Dados do Instituto de Pesquisa Econômica Aplicada (Ipea).
