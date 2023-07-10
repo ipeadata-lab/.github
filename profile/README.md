@@ -1,4 +1,4 @@
-![logo ipeadata-lab](ipeaDATAlab-logo.jpg)
+![logo ipeadata-lab](profile/ipeaDATAlab-logo.jpg)
 
 ## Bem-vindo(a) ao IpeaDATA-Lab👋
 
